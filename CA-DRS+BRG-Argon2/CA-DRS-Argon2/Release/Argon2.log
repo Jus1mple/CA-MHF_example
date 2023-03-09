@@ -1,0 +1,25 @@
+﻿  argon2.c
+  blake2b.c
+  core.c
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\core.c(237,34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\core.c(244,29): warning C4133: “函数”: 从“uint64_t *”到“unsigned long *”的类型不兼容
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\core.c(246,7): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\core.c(220,26): warning C4101: “j”: 未引用的局部变量
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\core.c(220,24): warning C4101: “i”: 未引用的局部变量
+  encoding.c
+  opt.c
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\opt.c(152,11): warning C4101: “output”: 未引用的局部变量
+  test.c
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\test.c(44,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\test.c(67,17): warning C4101: “msg”: 未引用的局部变量
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\test.c(71,9): warning C4101: “v”: 未引用的局部变量
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\test.c(66,20): warning C4101: “out”: 未引用的局部变量
+C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\test.c(65,9): warning C4101: “ret”: 未引用的局部变量
+  thread.c
+    正在创建库 C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\Release\Argon2.lib 和对象 C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\Release\Argon2.exp
+  正在生成代码
+  70 of 71 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Argon2.vcxproj -> C:\Users\渊蔽\Desktop\Test_v5\CA-DRS-Argon2\Release\Argon2.exe
